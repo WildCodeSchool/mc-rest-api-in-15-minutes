@@ -22,4 +22,5 @@ To replay the demo, the following applications must be available locally:
 
 * In your IDE, import from VCS, ie. the service or the client repository URLs
 
-Follow the instructions in the service and client repository READMEs. Start the REST Service first to be able to access the application with the REST Client.
+Follow the instructions in the service and client repository READMEs.  
+Start the REST Service first to be able to access the application with the REST Client.

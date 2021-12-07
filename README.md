@@ -2,7 +2,7 @@
 
 This repository contains all sources and steps to replay the Webinar "Create an API in 15 Minutes".
 
-## Create a REST API in 15 Minutes
+## Create an API in 15 Minutes
 
 The demo has two parts:
 

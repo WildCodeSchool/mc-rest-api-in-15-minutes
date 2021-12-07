@@ -7,7 +7,7 @@ This repository contains all sources and steps to replay the Webinar "Create an 
 The demo has two parts:
 
 1. The REST Service, implemented in Spring Boot and with OpenAPI YAML generation and Swagger UI: https://github.com/WildCodeSchool/sea-openapi-server
-2. The REST Client, a minimalistic sample for Code generation from OpenAPI YAML and usage in a Java/Spring application: https://github.com/WildCodeSchool/sea-openapi-client
+2. The REST Client, a minimalistic sample for source code generation from OpenAPI YAML and usage in a Java/Spring application: https://github.com/WildCodeSchool/sea-openapi-client
 
 ## Prerequisites
 
@@ -20,4 +20,4 @@ To replay the demo, the following applications must be available locally:
 
 ## Setup
 
-Follow the instructions in the service and client READMEs. Start the REST service first to be able to access the application with the REST client.
+Follow the instructions in the service and client READMEs. Start the REST Service first to be able to access the application with the REST Client.

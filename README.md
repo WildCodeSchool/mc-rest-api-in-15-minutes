@@ -14,10 +14,12 @@ The demo has two parts:
 To replay the demo, the following applications must be available locally:
 
 * Unrestricted Internet Access for Maven usage
-* Local IDE installation, eg. IntelliJ or Eclipse (optional)
+* Local IDE installation, eg. IntelliJ or Eclipse (optional). You can download IntelliJ CE here: https://www.jetbrains.com/idea/download/
 * Java 11+ (might be included in IDE)
 * Maven 3+ (might be included in IDE)
 
 ## Setup
 
-Follow the instructions in the service and client READMEs. Start the REST Service first to be able to access the application with the REST Client.
+* In your IDE, import from VCS, ie. the service or the client repository URLs
+
+Follow the instructions in the service and client repository READMEs. Start the REST Service first to be able to access the application with the REST Client.
